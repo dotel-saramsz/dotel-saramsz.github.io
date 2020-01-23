@@ -1,1 +1,0 @@
-# dotel-saramsz.github.io
