@@ -20,7 +20,7 @@ I like to ramble about:
 
 - Technology in General
 
-If any of this interest you, stay tuned.
+If any of the above interest you, stay tuned.
 
 {% highlight python %}
 def fetch_posts(author):
