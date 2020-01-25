@@ -1,0 +1,16 @@
+<header class="page-wrapper">
+    <div class="about-head">
+        <div class="img-wrapper">
+            {% if site.logo %}
+                <img src="{{ site.data.authors.dotelsaramsha.picture | relative_url }}" class="about-img animated fadeInDown" alt="{{ site.title }}">
+            {% endif %}
+        </div>
+        <div class="bio-wrapper">
+            <h1 class="about-name">{{ site.title }}</h1>
+            <p class="about-description" itemprop="description">{{ site.description }}</p>
+            
+            <p class="about-description" itemprop="description">{{ site.data.authors.dotelsaramsha.email }}</p>
+        </div>
+        <br style="clear:both;"/>
+    </div>
+</header><!-- /.masthead -->

@@ -1,0 +1,16 @@
+
+- title: Email
+  url: mailto:saramsha.d@gmail.com
+  icon: fa fa-envelope
+
+- title: Twitter
+  url: https://twitter.com/dotelsaramsz
+  icon: fab fa-twitter
+
+- title: Github
+  url: https://github.com/dotel-saramsz
+  icon: fab fa-github
+
+- title: LinkedIn
+  url: https://www.linkedin.com/in/dotelsaramsz/
+  icon: fab fa-linkedin

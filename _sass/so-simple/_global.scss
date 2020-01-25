@@ -87,7 +87,6 @@
   font-family: $description-font-family;
   @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
   font-weight: 400;
-  font-style: italic;
 }
 
 .site-logo {
@@ -118,9 +117,11 @@
 .site-footer {
   @include clearfix();
   margin: 2em 0;
-  padding: 2em 0;
+  padding: 1em 0;
   text-align: center;
-  border-top: 1px solid;
+  
+  color: #aeaeae;
+  background-color: #1a1d24;
 
   .social-icons {
     margin-bottom: 0.5em;

@@ -2,7 +2,10 @@
 layout: post
 title:  "Hello World!"
 date:   2020-01-23 20:02:39 +0545
-categories: writing non-tech
+categories: blog non-tech
+image:
+  path: /assets/img/hello_world.png
+  thumbnail: /assets/img/hello_world.png
 ---
 Hey there, fellow human being (or a sentient AI)! 
 

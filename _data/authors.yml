@@ -1,14 +1,16 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+dotelsaramsha:
+  name: Saramsha Dotel
+  picture: /assets/img/aboutimg.jpg
+  email: saramsha.d@gmail.com
+  address: Kathmandu, Nepal
+  twitter: https://twitter.com/dotelsaramsz
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
+    - title:
+      url:
+      icon:
 
 Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
