@@ -33,6 +33,9 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Raleway"
     weights: "400,400i,700,700i"
+
+# url to the Hello World! post
+hello_world: /general/hello-world/
     
 google_analytics: UA-156906698-1
 disqus:
