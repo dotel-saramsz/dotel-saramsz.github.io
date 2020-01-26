@@ -47,12 +47,12 @@ layout: page
 {% assign category_counts = category_counts | split: "|" %}
 
 
-<ul class="taxonomy-index">
+<ul class="taxonomy-index category-list">
   {% for category_names in category_names_array %}
     {% assign category_names_list = category_names | split: "," %}
     {% assign category_count = category_counts[forloop.index0] %}
     {% for category_name in category_names_list %}
-      <li>
+      <li class="category-card">
         <a href="#{{ category_name | slugify }}">
           <strong>{{ category_name }}</strong> <span class="taxonomy-count">{{ category_count }}</span>
         </a>
@@ -65,7 +65,7 @@ layout: page
   {% assign category_names_list = category_names | split: "," %}
   {% for category_name in category_names_list %}
     <section id="{{ category_name | slugify | downcase }}" class="taxonomy-section">
-      <h2 class="taxonomy-title">{{ category_name }}</h2>
+      <h2 class="taxonomy-title category-heading">{{ category_name }}</h2>
       {% for category in site.categories %}
         {% if category[0] == category_name %}
           <div class="entries-{{ page.entries_layout | default: 'list' }}">

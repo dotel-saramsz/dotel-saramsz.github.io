@@ -23,8 +23,25 @@
 @media screen and (min-width: 1280px) { .about-name { font-size: 44px; } }
 
 
-.about-description { margin: 0.25em 0 0 0; font-family: "Lora", serif; font-weight: 400; font-style: italic; }
+.about-description { margin: 0.5em 0 0 0; font-family: "Raleway", sans-serif; font-weight: 400; }
 .about-description { font-size: 10px; }
 @media screen and (min-width: 340px) { .about-description { font-size: calc(10px + 0 * ((100vw - 340px) / 960)); } }
 @media screen and (min-width: 640px) { .about-description { font-size: 14px; } }
 @media screen and (min-width: 1280px) { .about-description { font-size: 18px; } }
+
+.resume-btn {
+    padding-top: 0.5em;
+}
+.resume-btn a {
+    padding: 0.5em 0.75em;
+    text-decoration: none;
+    color: #aeaeae;
+    background-color: #1a1d24;
+    border: 1px solid;
+    border-color: #aeaeae;
+    border-radius: 0.25rem;
+}
+
+.resume-btn a:hover {
+    background-color: #252933;
+}

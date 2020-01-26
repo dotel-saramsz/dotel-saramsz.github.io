@@ -7,7 +7,7 @@
     {% include skip-links.html %}
     {% include navigation.html %}
 
-    {% if layout.type == "post" or page.type == "contact" %}
+    {% if layout.type == "post" or page.type == "contact" or page.type == "bloglist" %}
       {% include posthead.html %}
     {% elsif page.type == "about" %}
       {% include abouthead.html %}
