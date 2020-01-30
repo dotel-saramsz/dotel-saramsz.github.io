@@ -50,7 +50,7 @@ def post_article(topic):
     article.add(sentences)
   blog.publish(article)
 
-while true:
+while True:
   if rationality.weight > procrastination.weight:
     topic = random.choice(topics_of_interest)
     post_article(topic)
