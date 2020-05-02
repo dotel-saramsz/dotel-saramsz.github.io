@@ -5,15 +5,16 @@ sitemap: false
 
 @charset "utf-8";
 
-$serif-font-family: "Lora", serif;
-$sans-serif-font-family: "Raleway", sans-serif;
+$serif-font-family: 'Roboto Slab', serif;
+$sans-serif-font-family: 'Montserrat', sans-serif;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
   monospace;
 
 $base-font-family: $sans-serif-font-family;
 $headline-font-family: $serif-font-family;
-$title-font-family: $serif-font-family;
+$title-font-family: 'Lato', sans-serif;
 $description-font-family: $sans-serif-font-family;
 $meta-font-family: $serif-font-family;
+$subtitle-font-family: 'Raleway', sans-serif;
 
 @import "so-simple";
