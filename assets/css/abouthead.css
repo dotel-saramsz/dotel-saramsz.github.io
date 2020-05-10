@@ -2,7 +2,7 @@
 
 }
 
-.about-img { width: 80px; height: 80px; border: 5px solid; border-radius: 80px; border-color: #252a34; }
+.about-img { width: 80px; height: 80px; border-radius: 80px; border-color: #252a34; }
 @media screen and (min-width: 340px) { .about-img { width: 120px; height: 120px; border-radius: 120px; } }
 @media screen and (min-width: 640px) { .about-img { width: 140px; height: 140px; border-radius: 140px; } }
 @media screen and (min-width: 1280px) { .about-img { width: 200px; height: 200px; border-radius: 200px; } }
