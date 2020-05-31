@@ -1,10 +1,29 @@
 var triviaBtns = document.querySelectorAll('.trivia-button');
-var triviaContents = document.querySelectorAll('.trivia-contents');
+var body = document.querySelector('body');
+
+var openedPopOver = null;
+
+function hidePopOver(popOverID) {
+    popOver = document.getElementById(popOverID);
+    popOver.classList.remove('active');
+    popOver.classList.add('inactive');
+    openedPopOver = null;
+}
 
 function showPopOver(event) {
     targetID = event.target.getAttribute('id');
     identifier = targetID.match(/trivia-id-(.*)/)[1];
     popOverID = 'trivia-content-' + identifier;
+    
+    if (openedPopOver != null & openedPopOver != popOverID){
+        // some other popOver is already open. So first close that.
+        hidePopOver(openedPopOver);
+    }
+
+    //Set the opened popOver ID
+    openedPopOver = popOverID;
+    // console.log('Showing: ', openedPopOver);
+
     popOver = document.getElementById(popOverID);
     popOver.classList.remove('inactive');
     popOver.classList.add('active');
@@ -38,19 +57,34 @@ function showPopOver(event) {
     }
     
     popOver.style.top = yPos + 'px';
-
+    event.stopPropagation();
 }
 
-function hidePopOver(event) {
-    targetID = event.target.getAttribute('id');
-    identifier = targetID.match(/trivia-id-(.*)/)[1];
-    popOverID = 'trivia-content-' + identifier;
-    popOver = document.getElementById(popOverID);
-    popOver.classList.remove('active');
-    popOver.classList.add('inactive');
+function parenthasClass(element, className) {
+    if (element.tagName == 'BODY') {
+        return false;
+    }
+    else if (element.classList.contains(className)) {
+        return true;
+    }
+    return parenthasClass(element.parentElement, className);
 }
 
-triviaBtns.forEach(function(triviaBtn){
-    triviaBtn.addEventListener('mouseover', showPopOver);
-    triviaBtn.addEventListener('mouseout', hidePopOver);
+window.addEventListener('DOMContentLoaded', function(event) {
+    var triviaBtns = document.querySelectorAll('.trivia-button');
+    var body = document.querySelector('body');
+
+    triviaBtns.forEach(function(triviaBtn){
+        triviaBtn.addEventListener('click', showPopOver);
+    });
+    
+    body.addEventListener('click', function(e) {
+        if (!parenthasClass(e.target, 'trivia-content')) {
+            //Check the opened popOver
+            if (openedPopOver != null) {
+                hidePopOver(openedPopOver);
+            } 
+        }
+    });
+
 });
