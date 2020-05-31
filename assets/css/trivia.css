@@ -1,0 +1,33 @@
+/* Popover styling */
+.trivia-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.trivia-content {
+    position: absolute;
+    background-color:#1d1e23;
+    padding: 1rem;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+    margin: 10px 2% 0px 2%;
+    max-width: 70%;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    color: #eaeaea;
+}
+
+.trivia-content.inactive {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.trivia-content.active {
+    z-index: 10;
+    opacity: 1;
+    visibility: visible;
+    /* transition: all 0.5s cubic-bezier(0.75, -0.02, 0.2, 0.97); */
+}
+
+.trivia-message {
+    text-align: center;
+}

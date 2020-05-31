@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2020-01-23 20:02:39 +0545
-categories: General
+categories: Casual
 tags:
   - Announcement
 image:
