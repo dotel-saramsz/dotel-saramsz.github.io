@@ -29,7 +29,6 @@
 }
 
 .trivia-message {
-    
     margin-bottom: 1%;
 }
 
@@ -38,6 +37,8 @@
 }
 
 .trivia-button {
+    width: 24px;
+    height: 24px;
     border-radius: 50%;
     background-color: #008080;
     color: #eaeaea;
