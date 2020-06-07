@@ -41,7 +41,7 @@ hello_world: /general/hello-world/
     
 google_analytics: UA-156906698-1
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: dotelsaramsha
 twitter:
   username: dotelsaramsz
 
