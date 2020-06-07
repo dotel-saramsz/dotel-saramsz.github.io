@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Sports Fans are Sports Fans?"
+title:  "Why Sports Fans are Sports Fans"
 categories: Casual
 tags:
   - Sports
