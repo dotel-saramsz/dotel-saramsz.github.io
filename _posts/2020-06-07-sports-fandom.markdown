@@ -57,7 +57,7 @@ This behaviour is also known as **Basking in Reflected Glory** or **[BIRG](https
   
 Fans of the victorious teams develop a subconscious strategy to maintain positive self image by associating themselves with winning team. They do so by donning the team apparels, carrying banners and flags, and even painting their faces or tattooing their bodies.
 
-- **Cutting off Reflected Failure (COFR)**:
+- **Cutting off Reflected Failure (CORF)**:
 
 Caldiani observed that some fans of the teams that lose develop a *feel good* strategy by limiting their association with their team, atleast for a time being after the defeat.
 
@@ -65,7 +65,7 @@ Caldiani observed that some fans of the teams that lose develop a *feel good* st
 
 Another interesting observation that Caldiani made was: some fans develop the *Underdog Mentality* where they actively downplay their own team in the build up to the games in fear of the success being short-lived. {% include trivia.html identifier="4" content="I was shocked to see how well this resonated with me. To be fair though, Liverpool are no longer an underdog now. This was the case for the better part of my childhood though." %}
 
-With the spread of technology, not only has the realms under which BIRGing or COFRing may fall have increased, it has also increased the ease with which the individuals partake in this status signaling. Twitter is one of the best places to observe this behavior. People have even given a name to different factions of these users and their engagement. Football Twitter, Cricket Twitter, NBA Twitter, etc have become a common tongue for regular Twitter users.
+With the spread of technology, not only has the realms under which BIRGing or CORFing may fall have increased, it has also increased the ease with which the individuals partake in this status signaling. Twitter is one of the best places to observe this behavior. People have even given a name to different factions of these users and their engagement. Football Twitter, Cricket Twitter, NBA Twitter, etc have become a common tongue for regular Twitter users.
 
 ## 3. Belonging to a Community
 
