@@ -15,11 +15,10 @@ It was a surreal experience winning the Hult Prize at Tribhuvan University and p
 
 For the competition, we presented a prototype of an e-commerce platform targeted for the micro-entrepreneurs. Aptly named as **Product with a Story**, our main idea was to provide the entrepreneurs from marginalized community to directly sell their products to the customers where each product is accompanied with the background story of its creator. So, you would not just be buying the product but the heart and soul that went into making it.
 
+{% include image.html image_center="true" url="/assets/img/hult_dubai2.jpg" description="At the Dubai Regionals with our beautiful guide" %}
 
-{% include image.html image_center="true" url="/assets/img/hult_dubai1.jpg" description="At the Dubai Regional Finals. When the sponsors demands you to wear their merch at the venue." %}
+{% include image.html image_center="true" url="/assets/img/hult_dubai1.jpg" description="The serenity of the sand." %}
 
-{% include image.html image_center="true" url="/assets/img/hult_dubai2.jpg" description="With our beautiful guide for the 2 days we spent at Hult Business School, Dubai" %}
-
-{% include image.html image_center="true" url="/assets/img/hult_dubai3.jpg" description="All suited up in front of the mesmerizing Jumeriah" %}
+{% include image.html image_center="true" url="/assets/img/hult_dubai3.jpg" description="All suited up in front of the mesmerizing Jumeriah." %}
 
 
