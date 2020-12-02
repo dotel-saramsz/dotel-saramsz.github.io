@@ -7,12 +7,12 @@
     {% include skip-links.html %}
     {% include navigation.html %}
 
-    {% if layout.type == "post" or page.type == "contact" or page.type == "bloglist" %}
-      {% include posthead.html %}
+    {% if page.type == "index" %}
+      {% include masthead.html %}
     {% elsif page.type == "about" %}
       {% include abouthead.html %}
     {% else %}
-      {% include masthead.html %}
+      {% include posthead.html %}
     {% endif %}
 
     {{ content }}
