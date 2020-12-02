@@ -9,10 +9,10 @@ body {
 }
 
 a {
-  color: $accent-color;
-
+  color: $link-color;
+  text-decoration: none;
   &:hover {
-    color: shade($accent-color, 25%);
+    color: shade($link-color, 25%);
   }
 }
 

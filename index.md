@@ -1,37 +1,13 @@
 ---
 layout: page
-permalink: /about/
-type: about
-headtitle: About
+type: index
 ---
 
-<br />
+Hi, I am Saramsha. I am a Machine Learning Engineer by profession. 
 
-## Work
+Currently, I am working at my startup: **Upsilon Technologies** where we are building [Paana](https://www.paana.news/), an app that aggregates and summarizes news from various sources. Previously, I was a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/). I completed by undergraduate in Computer Engineering from [Institute of Engineering, Pulchowk Campus](https://pcampus.edu.np/) at Tribhuvan University in 2019. 
 
-### Current
-
-- **Co-founder at Upsilon Technologies**. (2020-)
-  - Building [Paana](https://www.paana.news/), an app that aggregates and summarizes news from various sources.
-
-### Previous
-
-- **Machine Learning Engineer at [Fusemachines](https://fusemachines.com/)** (2019-2020)
-  - Developed Optical Character Recognition system to digitize Nepali and English documents.
-  - Built predictive models to forecast sales and revenue of Fortune 1000 video game holding company.
-
-- **AI Content Creator at [Fusemachines](https://fusemachines.com/)** (2019)
-  - Designed the syllabus and created the notes, assignments and quizzes for an online artificial intelligence course: FuseAI.
-
----
-<br />
-
-## Education
-
-- **Bachelors in Computer Engineering** - [Institute of Engineering, Pulchowk Campus](https://pcampus.edu.np/) (2015-2019)
-  - Graduated as the **Batch Topper** with aggregate percentage of **85.3%**
-
-
+<span style="color:#0ddede"> I am actively looking to pursue graduate studies in Computer Science, preferably as a Research/Teaching Assistant. </span>
 
 ---
 <br />
@@ -86,3 +62,7 @@ A Computer Vision based software to classify and count the total number of vehic
 ## Miscellaneous
 
 I also like to watch movies, read books and play video games. I am an avid supporter of **Liverpool Football Club** and watch a lot of sports.
+
+
+
+
