@@ -14,7 +14,7 @@ This was a [competition](https://kathmanduchallenge.org/) organized by the Kathm
 - Metropolitan Public Administration and Management
 - Municipal Community Service
 
-I teamed up with my 4 good friends: **Ramesh Pathak**, **Barun Pandey**, **Avishekh Shrestha** and **Anish Bhusal** to develop a Traffic Mobility Analytics Platform, a software application that automatically detected, categorized and counted the vehicles in the road. We demonstrated the prototype on a traffic video feed of 4 major junctions in Kathmandu Valley. 
+I teamed up with my 4 good friends: **Ramesh Pathak**, **Barun Pandey**, **Avishekh Shrestha** and **Anish Bhusal** to develop a [Traffic Mobility Analytics Platform](/technical writing/traffic-map), a software application that automatically detected, categorized and counted the vehicles in the road. We demonstrated the prototype on a traffic video feed of 4 major junctions in Kathmandu Valley. 
 
 It was a great pleasure and a great honor to win the **Urban Infrastructure** category. 
 

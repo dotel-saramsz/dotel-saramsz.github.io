@@ -72,11 +72,11 @@ Member of the team that won the Hult Prize at Tribhuvan University and participa
 
 ## Notable Projects
 
-- **Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis*
+- [**Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis*](/technical writing/traffic-map)
 
 A research project that utilizes computer vision and deep learning techniques like semantic segmentation and image classification to identify the regions in satellite images that are affected by natural disasters like floods.
 
-- **Traffic Mobility Analytics Platform** ​ — ​ *Undergraduate Minor Project*
+- [**Traffic Mobility Analytics Platform** ​ — ​ *Undergraduate Minor Project*](/technical writing/traffic-map)
 
 A Computer Vision based software to classify and count the total number of vehicles in the road and estimate the road occupancy. Also a part of the project is the Nepali Vehicles Dataset prepared to train the object detection model.
 

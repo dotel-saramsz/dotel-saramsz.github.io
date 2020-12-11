@@ -61,7 +61,7 @@ layout: page
   {% endfor %}
 </ul>
 
-{% for category_names in category_names_array %}
+{% for category_names in category_names_array reversed %}
   {% assign category_names_list = category_names | split: "," %}
   {% for category_name in category_names_list %}
     <section id="{{ category_name | slugify | downcase }}" class="taxonomy-section">
