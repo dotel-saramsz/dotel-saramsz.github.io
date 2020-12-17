@@ -74,7 +74,7 @@ Member of the team that won the Hult Prize at Tribhuvan University and participa
 
 ## Notable Projects
 
-- [**Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis*](/technical writing/traffic-map)
+- [**Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis*](/assets/pdf/IVSP%20Paper.pdf)
 
 A research project that utilizes computer vision and deep learning techniques like semantic segmentation and image classification to identify the regions in satellite images that are affected by natural disasters like floods.
 
