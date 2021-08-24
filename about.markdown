@@ -11,8 +11,8 @@ headtitle: About
 
 ### Current
 
-- **Co-founder at Upsilon Technologies**. (2020-)
-  - Building [Paana](https://www.paana.news/), an app that aggregates and summarizes news from various sources.
+- **Co-founder at Naamche Inc**. (2020-)
+  - Leading the technology team of Naamche, a product lab that specializes in providing AI powered web and mobile software solutions. Responsible for setting the technical vision of the company and executing the delivery of quality software while hiring new engineers and establishing the engineering culture in a fast-growing startup. Currently overseeing the design and development of a suite of products for a fast-growing startup in the US.
 
 ### Previous
 
@@ -30,7 +30,6 @@ headtitle: About
 
 - **Bachelors in Computer Engineering** - [Institute of Engineering, Pulchowk Campus](https://pcampus.edu.np/) (2015-2019)
   - Graduated as the **Batch Topper** with aggregate percentage of **85.3%**
-
 
 
 ---

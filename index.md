@@ -3,11 +3,9 @@ layout: page
 type: index
 ---
 
-Hi, I am Saramsha. I am a Machine Learning Engineer by profession. 
+Hi, I am Saramsha. I am a Software Engineer dabbling with Machine Learning. 
 
-Currently, I am working at my startup: **Upsilon Technologies** where we are building [Paana](https://www.paana.news/), an app that aggregates and summarizes news from various sources. Previously, I was a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/). I completed by undergraduate in Computer Engineering from [Institute of Engineering, Pulchowk Campus](https://pcampus.edu.np/) at Tribhuvan University in 2019. 
-
-<span style="color:#0ddede"> I am actively looking to pursue graduate studies in Computer Science, preferably as a Research/Teaching Assistant. </span>
+Currently, I am working at my startup: [**Naamche Inc**](https://www.naamche.com) where I am leading the technology team of [Naamche](https://www.naamche.com), a product lab that specializes in providing AI powered web and mobile software solutions. Previously, I was a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/). I completed by undergraduate in Computer Engineering from [Institute of Engineering, Pulchowk Campus](https://pcampus.edu.np/) at Tribhuvan University in 2019.
 
 ---
 <br />
