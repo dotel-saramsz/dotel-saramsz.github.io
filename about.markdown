@@ -11,7 +11,7 @@ headtitle: About
 
 ### Current
 
-- **Co-founder at Naamche Inc**. (2020-)
+- **Co-founder & CTO at Naamche Inc**. (2020-)
   - Leading the technology team of Naamche, a product lab that specializes in providing AI powered web and mobile software solutions. Responsible for setting the technical vision of the company and executing the delivery of quality software while hiring new engineers and establishing the engineering culture in a fast-growing startup. Currently overseeing the design and development of a suite of products for a fast-growing startup in the US.
 
 ### Previous

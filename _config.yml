@@ -19,7 +19,7 @@ dark_skin: "/assets/css/skins/dark.css"
 light_skin: "/assets/css/skins/light.css"
 locale: en-US
 title: Saramsha Dotel
-description: Machine Learning Engineer
+description: Co-founder & CTO, Naamche
 baseurl: ""
 url: https://dotel-saramsz.github.io
 logo: /assets/img/thumbnail.jpg
@@ -29,31 +29,31 @@ read_time: true
 words_per_minute: 200
 mathjax: true
 google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
-  - name: "Raleway"
-    weights: "400,400i,700,700i"
+    - name: "Source Sans Pro"
+      weights: "400,400i,700,700i"
+    - name: "Lora"
+      weights: "400,400i,700,700i"
+    - name: "Raleway"
+      weights: "400,400i,700,700i"
 
 # url to the Hello World! post
 hello_world: /general/hello-world/
-    
+
 google_analytics: UA-156906698-1
 disqus:
-  shortname: dotelsaramsha
+    shortname: dotelsaramsha
 twitter:
-  username: dotelsaramsz
+    username: dotelsaramsz
 
 # Liquid
 liquid:
-  error_mode: strict
+    error_mode: strict
 
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
 feed:
-  path: atom.xml
+    path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
@@ -79,34 +79,34 @@ search_full_content: false # can have performance implications for large sites
 #   - vendor/ruby/
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
+    - jekyll-seo-tag
+    - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-paginate
 
 # Front Matter Defaults
 defaults:
-  # Posts defaults
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      share: true
+    # Posts defaults
+    - scope:
+          path: "_posts"
+          type: posts
+      values:
+          layout: post
+          share: true
 
 # Site Author
 author: dotelsaramsha
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/dotelsaramsz
-    icon: fab fa-twitter
+    - title: Twitter
+      url: https://twitter.com/dotelsaramsz
+      icon: fab fa-twitter
 
-  - title: Github
-    url: https://github.com/dotel-saramsz
-    icon: fab fa-github
+    - title: Github
+      url: https://github.com/dotel-saramsz
+      icon: fab fa-github
 
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/dotelsaramsz/
-    icon: fab fa-linkedin
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/dotelsaramsz/
+      icon: fab fa-linkedin
