@@ -3,28 +3,11 @@ layout: page
 type: index
 ---
 
-Hi, I am Saramsha. I am a Software Engineer dabbling with Machine Learning. 
+Hi, I am Saramsha. I am a Software Engineer and Entrepreneur based in Nepal. 
 
 Currently, I am working at my startup: [**Naamche Inc**](https://www.naamche.com) where I am leading the technology team of [Naamche](https://www.naamche.com), a product lab that specializes in providing AI powered web and mobile software solutions. Previously, I was a Machine Learning Engineer at [Fusemachines](https://fusemachines.com/). I completed by undergraduate in Computer Engineering from [Institute of Engineering, Pulchowk Campus](https://pcampus.edu.np/) at Tribhuvan University in 2019.
 
----
-<br />
-
-## Research Interests
-
-I am interested in **Machine Learning**, particularly **Computer Vision** but also **Natural Language Processing**. I aim to leverage Machine Learning techniques for social good applications that can have wide societal impact. Following is a list of areas that I have [conducted research](/publications.md) on or would like to work on in the near future:
-
-- **Visual Scene Understanding:** Developing computer vision algorithms to make a computer understand visual scenes. Sources for such scenes can be (but not limited to) photograph, videos, satellite imagery, medical images, etc.  
-
-- **Moving Object Detection and Tracking:** Enabling a machine to accurately identify moving objects like vehicles in a road and track their movement.
-
-- **AI for Social Good:** Developing Machine Learning powered applications with primary goal of improving humanitarian efforts. Example scenarios include crisis response, urban planning, clean energy, etc. 
-
-- **NLP for low resource languages:** Exploring transfer learning and self supervised learning in NLP to bridge the resource gap for low resource languages like Nepali. 
-
-- **Multimodal Deep Learning:** Integrating multiple sources of information like language and vision in a single learning task.
-
-If you'd like to collaborate in any of the above, feel free to [reach out](/contact.md) to me.
+On December 2023, my startup [**Naamche Inc**](https://www.naamche.com) was acquired by [**reAlpha**](https://www.realpha.com), a Nasdaq-listed proptech company in the US. This makes us the first Nepali software company to be acquired by a Nasdaq-listed company. Read the press release [here](https://finance.yahoo.com/news/realpha-tech-corp-acquire-naamche-120000261.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAG6DB8z1slARer1kz_HAB6Q_DJwf18E9pJS8cnA9vWE-ZUr_aWkeY90vqmaZJXjbzjQ7uePsRg-bcON9JiMSqE8X-tDxUTQegjdj_RhNnqs5wE4bcNoOwkyvNWN6bMWUEnlT37Lhrp1pW4w1wyK6-t2FJ8aCaZFrdnJ-HhWOPwNQ). 
 
 ---
 <br />
@@ -46,7 +29,9 @@ Member of the team that won the Hult Prize at Tribhuvan University and participa
 ---
 <br />
 
-## Notable Projects
+## Notable Research Projects
+
+Back in college, I was actively involved in Machine Learning research which led me to write two thesis on this domain and publish a paper on an international peer-reviewed journal.
 
 - [**Disaster Impact Assessment from Satellite Imagery** — *Undergraduate Thesis*](/assets/pdf/IVSP%20Paper.pdf)
 
