@@ -1,0 +1,48 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = 'Saramsha Dotel — Senior Applied AI Engineer at Warner Bros. Discovery.',
+} = Astro.props;
+
+const pageTitle = title ? `${title} — Saramsha Dotel` : 'Saramsha Dotel';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <title>{pageTitle}</title>
+    <link rel="icon" type="image/jpeg" href="/assets/img/thumbnail.jpg" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/" class="site-name">Saramsha Dotel</a>
+      <nav>
+        <a href="/writing/">Writing</a>
+        <a href="/about/">About</a>
+        <a href="/publications/">Publications</a>
+        <a href="/contact/">Contact</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <a href="https://github.com/dotel-saramsz">GitHub</a>
+      <a href="https://www.linkedin.com/in/dotelsaramsz/">LinkedIn</a>
+      <a href="https://twitter.com/dotelsaramsz">Twitter</a>
+      <a href="mailto:saramsha.d@gmail.com">Email</a>
+    </footer>
+  </body>
+</html>
