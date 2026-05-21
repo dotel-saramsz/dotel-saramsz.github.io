@@ -269,6 +269,22 @@ pre code {
   line-height: 1.45;
 }
 
+.hero-resume {
+  margin: 0.55rem 0 0;
+  font-size: 0.95rem;
+  font-family: var(--sans);
+}
+
+.hero-resume a {
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+}
+
+.hero-resume a:hover {
+  opacity: 0.75;
+}
+
 @media (max-width: 540px) {
   .hero {
     flex-direction: column;
